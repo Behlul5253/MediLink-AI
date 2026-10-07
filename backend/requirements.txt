@@ -1,2 +1,8 @@
-bcrypt==5.0.0
+fastapi==0.110.0
+uvicorn==0.28.0
+gunicorn==21.2.0
+pydantic==2.6.4
+sqlalchemy==2.0.28
 passlib==1.7.4
+bcrypt==5.0.0
+python-multipart==0.0.9
